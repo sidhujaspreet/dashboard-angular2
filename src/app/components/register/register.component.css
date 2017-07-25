@@ -1,0 +1,15 @@
+
+.page-theme {
+	background: #65dcd7!important;
+}
+
+.selectdemoBasicUsage {
+	max-width: 600px;
+  md-card {
+    padding: 0!important;
+
+    md-card-title {
+      background-color: blue;
+    }
+  }
+}
